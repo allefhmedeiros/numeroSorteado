@@ -1,3 +1,5 @@
+// Algoritimo de funcionamento
+
 let listaNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
