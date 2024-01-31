@@ -1,4 +1,4 @@
-// Algoritimo de funcionamento
+// Algoritimo de funcionamento.
 
 let listaNumerosSorteados = [];
 let numeroLimite = 10;
